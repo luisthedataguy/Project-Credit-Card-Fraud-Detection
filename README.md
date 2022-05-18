@@ -2,7 +2,7 @@
 
 ---
 
-    Este proyecto contiene todos los Jupyter Notebooks finales para nuestro análisis exploratorio de datos y todos los modelos.
+    Este proyecto contiene todos los Jupyter Notebooks finales para el análisis exploratorio de datos y todos los modelos.
 
 Dataset de kaggle
 [Link del dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
