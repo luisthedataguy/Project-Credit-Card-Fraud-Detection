@@ -25,4 +25,4 @@ plotly
 
 ## Kaggle API Key
 
-El conjunto de datos se descarga directamente de Kaggle mediante la CLI de Kaggle. Esto requiere que se genere una clave API y se use en **todos** nuestros cuadernos. Hemos agregado valores de marcador de posición para el nombre de usuario de Kaggle y las claves API en la primera celda de nuestros cuadernos que deben editarse antes de ejecutarse.
+El conjunto de datos se descarga directamente de Kaggle mediante la CLI de Kaggle. Esto requiere que se genere una clave API y se use en **todos** nuestros cuadernos. He agregado valores de marcador de posición para el nombre de usuario de Kaggle y las claves API en la primera celda de los cuadernos que deben editarse antes de ejecutarse.
